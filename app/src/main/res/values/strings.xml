@@ -2,5 +2,17 @@
     <string name="app_name">Kino</string>
     <string name="theatres">Кинотеатры</string>
     <string name="films">Фильмы</string>
-    <string name="theatres_films">Фильмы в кинотеатрах</string>
+    <string name="add_theatre">Добавить кинотеатр</string>
+    <string name="add_film">Добавить фильм в кинотеатр</string>
+    <string name="enter_find_string">Введите строку поиска</string>
+    <string name="Find">Поиск</string>
+    <string name="find_theatres">Поиск кинотеатра</string>
+    <string name="find_films">Поиск фильмов</string>
+    <string name="create_theatre">Создание кинотеатра</string>
+    <string name="enter_name">Название кинотеатра</string>
+    <string name="enter_address">Адрес кинотеатра</string>
+    <string name="create">Создать</string>
+    <string name="create_film">Создание фильма</string>
+    <string name="enter_film">Название фильма</string>
+    <string name="add">Добавить</string>
 </resources>

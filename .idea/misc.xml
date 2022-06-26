@@ -3,7 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projects/Kino/app/src/main/res/drawable/background_button.xml" value="0.189" />
+        <entry key="..\:/Projects/Kino/app/src/main/res/drawable/progress_indicator.xml" value="0.189" />
+        <entry key="..\:/Projects/Kino/app/src/main/res/layout/activity_add_film.xml" value="0.28888888888888886" />
+        <entry key="..\:/Projects/Kino/app/src/main/res/layout/activity_add_theatre.xml" value="0.22" />
+        <entry key="..\:/Projects/Kino/app/src/main/res/layout/activity_film.xml" value="0.28888888888888886" />
         <entry key="..\:/Projects/Kino/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Projects/Kino/app/src/main/res/layout/activity_theatre.xml" value="0.22" />
+        <entry key="..\:/Projects/Kino/app/src/main/res/layout/activity_theatre_film.xml" value="0.28888888888888886" />
+        <entry key="..\:/Projects/Kino/app/src/main/res/layout/film_cell.xml" value="0.33" />
+        <entry key="..\:/Projects/Kino/app/src/main/res/layout/item_cell.xml" value="0.1527777777777778" />
+        <entry key="..\:/Projects/Kino/app/src/main/res/layout/theatre_cell.xml" value="0.22" />
+        <entry key="..\:/Projects/Kino/app/src/main/res/layout/theatre_film_cell.xml" value="0.28888888888888886" />
       </map>
     </option>
   </component>
